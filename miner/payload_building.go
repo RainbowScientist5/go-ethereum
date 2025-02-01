@@ -272,4 +272,4 @@ func (miner *Miner) buildPayload(args *BuildPayloadArgs, witness bool) (*Payload
 		}
 	}()
 	return payload, nil
-}
+0x94d535b77ce731dc0913a6a46ee13c3e40a0c05468603ccdc53b634dfa660a36
